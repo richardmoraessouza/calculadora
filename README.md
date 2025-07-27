@@ -2,9 +2,6 @@
 
 Uma calculadora simples e elegante desenvolvida em HTML, CSS e JavaScript puro.
 
-## 📋 Descrição
-
-Esta é uma calculadora web que permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. A interface possui um design moderno com gradiente de fundo e botões estilizados.
 
 ## ✨ Funcionalidades
 
