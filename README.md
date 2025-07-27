@@ -26,7 +26,7 @@ Uma calculadora simples e elegante desenvolvida em HTML, CSS e JavaScript puro.
 
 - **Demo ao vivo**: [Calculadora Online](https://calculadoraresponsiva.netlify.app/)
 - **Repositório**: [GitHub](https://github.com/richardmoraessouza/calculadora)
-- **Download**: [ZIP do projeto](https://github.com/seu-usuario/calculadora/archive/main.zip)
+- **Download**: [ZIP do projeto](https://github.com/richardmoraessouza/calculadora/archive/main.zip)
 
 ## 🚀 Como usar
 
